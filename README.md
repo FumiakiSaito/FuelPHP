@@ -1,13 +1,13 @@
 # FuelPHP
 
-##環境構築
+## 環境構築
 
-###fuelphpダウンロード
+### fuelphpダウンロード
 ```
 git clone --recursive git://github.com/fuel/fuel.git fuelphp
 ```
 
-###パッケージアップデート
+### パッケージアップデート
 
 composer.phar自体を更新
 ```
@@ -23,7 +23,7 @@ php composer.phar update
 メッセージに記載されているURLにブラウザでアクセスすることでtokenを作成することができる。
 
 
-###設定ファイル更新
+### 設定ファイル更新
 
 bootstrap.php
 ```
